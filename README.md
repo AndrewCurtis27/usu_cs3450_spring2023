@@ -1,4 +1,4 @@
-# usu_cs3450_fall22
+# usu_cs3450_spring2023
 Repository for Git intro assignment
 
 Helpful links:
