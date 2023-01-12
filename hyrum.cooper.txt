@@ -1,0 +1,3 @@
+Name: Hyrum Cooper
+Favorite Coding Environment: VS Code + Vim
+Favorite Language: Haskell
