@@ -1,0 +1,3 @@
+Name: Joseph Giles
+Favorite Coding Env: VSCode
+Favorite Language: Python
