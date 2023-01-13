@@ -1,0 +1,3 @@
+Jayden Lintz
+Favorite coding environment: Any JetBrains IDE (IntelliJ, PyCharm, etc.)
+Favorite language: Python
